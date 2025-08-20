@@ -39,8 +39,8 @@ Para poder ejecutar el juego necesitas tener instalado en tu ordenador:
 
 - 🐍 **Python 3.8 o superior**  
 - 💻 Un editor o entorno para ejecutar el código, por ejemplo:  
-- [Jupyter Notebook](https://jupyter.org/)  
-- [VS Code](https://code.visualstudio.com/)  
+  - [Jupyter Notebook](https://jupyter.org/)  
+  - [VS Code](https://code.visualstudio.com/)  
 - La propia terminal de Python  
 - 🎵 (Opcional) Librería `playsound` o similar si quieres reproducir música o efectos de sonido:  pip install playsound
 
